@@ -77,7 +77,7 @@ include ('../connect.php');
             <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
             <li><a href="#" class="icon fa-snapchat"><span class="label">Snapchat</span></a></li>
           </ul>
-          <p>&copy; BanK System. All rights reserved. Designed by : <a href="https://wwww.facebook.com/embash">Embash</a>.</p>
+          <p>&copy; Bank Queue System. All rights reserved. Designed by : <a href="https://wwww.facebook.com/embash">Embash</a>.</p>
         </div>
       </footer>
 
