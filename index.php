@@ -60,7 +60,7 @@ include 'admin/redirect.php';
             <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
             <li><a href="#" class="icon fa-snapchat"><span class="label">Snapchat</span></a></li>
           </ul>
-          <p> Bank Queue Management System &copy;<a href="https://wwww.facebook.com/embash">Embashcardon IT world</a>.</p>
+          <p> Bank Queue Management System &copy; 2018<a href="https://wwww.facebook.com/embash">Embashcardon IT world</a>.</p>
         </div>
       </footer>
 
